@@ -1,5 +1,5 @@
 ### Getting started with Turtlecoin
-Make sure you have `walletd` and `TurtleCoind` running on the default ports and the blockexplorer enabled.
+Make sure you have `watlet` and `WATT` running on the default ports and the blockexplorer enabled.
 Install dependencies with `pip install -r requirements.txt` 
 
 ### Getting started with something else
